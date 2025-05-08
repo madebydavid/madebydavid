@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm David
 
-<!--
-**madebydavid/madebydavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a developer building tools to make mobile game development easier.
 
-Here are some ideas to get you started:
+### 🚀 My current project: [ShipThis CLI](https://github.com/shipth-is/cli)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**ShipThis** is a command-line tool to build and upload Godot games to the App Store and Google Play - no Xcode or Android Studio required. Publish your Godot game to iOS & Android in minutes - no keystores, provisioning profiles, or headaches.
+
+```bash
+shipthis game ship
+```
+
+- ✅ Always a free tier — enough build minutes for most solo devs  
+- ✨ One-command setup with an interactive `wizard`  
+- ⏩ No additional build tools to install
+- 🔐 Handles signing, certificates, keystores, and API keys  
+- 🚀 One-command publishing to TestFlight or Google Play
+
+🔗 **Check it out:** https://github.com/shipth-is/cli  
+
+⭐ Star the repo if you find it helpful - it means a lot!
+
